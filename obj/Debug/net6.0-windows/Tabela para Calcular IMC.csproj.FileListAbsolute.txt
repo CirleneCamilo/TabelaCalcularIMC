@@ -1,0 +1,34 @@
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\bin\Debug\net6.0-windows\Tabela para Calcular IMC.exe
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\bin\Debug\net6.0-windows\Tabela para Calcular IMC.deps.json
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\bin\Debug\net6.0-windows\Tabela para Calcular IMC.runtimeconfig.json
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\bin\Debug\net6.0-windows\Tabela para Calcular IMC.dll
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\bin\Debug\net6.0-windows\Tabela para Calcular IMC.pdb
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.csproj.AssemblyReference.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela_para_Calcular_IMC.Form1.resources
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.csproj.GenerateResource.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.AssemblyInfoInputs.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.AssemblyInfo.cs
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.csproj.CoreCompileInputs.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.dll
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\refint\Tabela para Calcular IMC.dll
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.pdb
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.genruntimeconfig.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\ref\Tabela para Calcular IMC.dll
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\bin\Debug\net6.0-windows\Tabela para Calcular IMC.exe
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\bin\Debug\net6.0-windows\Tabela para Calcular IMC.deps.json
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\bin\Debug\net6.0-windows\Tabela para Calcular IMC.runtimeconfig.json
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\bin\Debug\net6.0-windows\Tabela para Calcular IMC.dll
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\bin\Debug\net6.0-windows\Tabela para Calcular IMC.pdb
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.csproj.AssemblyReference.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela_para_Calcular_IMC.Form1.resources
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.csproj.GenerateResource.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.AssemblyInfoInputs.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.AssemblyInfo.cs
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.csproj.CoreCompileInputs.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.dll
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\refint\Tabela para Calcular IMC.dll
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.pdb
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\Tabela para Calcular IMC.genruntimeconfig.cache
+C:\Users\CVCSO\OneDrive\Área de Trabalho\DISCIPLINAS  ANÁLISE DESENVOLVIMENTO SISTEMAS - ANO DE  2022\Linguagem C# - Professor Cao\Aula 1\Tabela para Calcular IMC\obj\Debug\net6.0-windows\ref\Tabela para Calcular IMC.dll
